@@ -28,3 +28,11 @@ console.log(
   prix_moyen_par_produit_tva_comprise,
   "FCFA"
 );
+
+console.log("Type du nom :", typeof Nom_du_client);
+console.log("Type du produit :", typeof Nom_du_produit);
+console.log("Type du prix :", typeof Prix_unitaire);
+console.log("Type de la quantité :", typeof Quantité);
+console.log("Type des frais de livraison :", typeof frais_de_livraison);
+console.log("Type du taux de TVA :", typeof taux_de_tva);
+console.log("Type du montant TTC :", typeof Montant_total_TTC);
